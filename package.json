@@ -1,0 +1,10 @@
+{
+  "name": "hsw.org.uk",
+  "version": "1.0.0",
+  "description": "Hungarian School Woking website",
+  "main": "index.js",
+  "repository": "git@github.com:mhipszki/hsw.org.uk.git",
+  "author": "Marton Hipszki <mhipszki@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {}
+}
